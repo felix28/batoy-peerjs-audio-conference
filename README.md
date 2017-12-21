@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 WebRTC / PeerJS Audio Chat Demo
 =================
 
@@ -108,3 +109,7 @@ $ node .
 ```
 
 Open `http://localhost:6767` in your browser and you should be able to make calls.
+=======
+# batoy-peerjs-audio-conference
+Audio conference using WebRTC and PeerJS.
+>>>>>>> 04e2184d07dec3707760274c533f85f05063cfdf
