@@ -1,0 +1,18 @@
+{
+  "name": "batoy-peerjs-audio-conference",
+  "version": "0.0.0",
+  "description": "Audio conference using WebRTC and PeerJS.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.10.2",
+    "ejs": "~1.0.0",
+    "uuid": "~2.0.1",
+    "peer": "^0.2.8"
+  },
+  "devDependencies": {},
+  "author": "Noah Burney",
+  "license": "BSD-2-Clause"
+}
